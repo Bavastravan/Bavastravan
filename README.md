@@ -63,9 +63,11 @@
 
 ## 📊 Statistik GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bavastravan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bavastravan&show_icons=true&theme=tokyonight" height="165"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavastravan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavastravan&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
